@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @158SHI
 - 👀 I’m interested in basketball and skateboard
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
 - 📫 My email is 1580405516@qq.com
 
 <!---
